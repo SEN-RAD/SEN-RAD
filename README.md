@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SEN-RAD. I'm currently based in Prague, CZR.
+- 👋 Hi, I’m Andres. I'm currently based in Prague, CZR.
 - 👀 I’m interested in technology, music and self-actualization.
 - 🌱 I’m currently learning the basics of Front-end development, mainly React.
 - 💞️ I’m looking for an entry-level job in software development. 
