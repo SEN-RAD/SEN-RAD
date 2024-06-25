@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Andres. I'm currently based in Prague, CZR.
 - 👀 I’m interested in technology, music and self-actualization.
-- 🌱 I’m currently learning the basics of Front-end development, mainly React.
-- 💞️ I’m looking for an entry-level job in software development. 
+- 🌱 I’m currently working on the project Mingly with the Czech firm Develogi.
 - 📫 How to reach me https://www.linkedin.com/in/andres-bermudez-8b69881a9/
 
 <!---
